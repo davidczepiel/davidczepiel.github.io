@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.41972a86.css",
-    "main.js": "/static/js/main.f0c26f63.js",
+    "main.js": "/static/js/main.7db06852.js",
     "static/media/LumenFallModalPreview1.png": "/static/media/LumenFallModalPreview1.10847bc56bd44bad8d26.png",
-    "static/media/ApruebameEstaPreview.png": "/static/media/ApruebameEstaPreview.8b3760e5682328a9ff49.png",
     "static/media/COCGWPreview.png": "/static/media/COCGWPreview.da33bd596443a16e707b.png",
     "static/media/Wolfestein3DPreview.png": "/static/media/Wolfestein3DPreview.9a725875f7506eb81bdf.png",
     "static/media/TheDarkMazePreview.png": "/static/media/TheDarkMazePreview.362f94e3e501baa934fa.png",
@@ -20,6 +19,7 @@
     "static/media/DGTModalPreview0.png": "/static/media/DGTModalPreview0.80652579c01b326d8646.png",
     "static/media/HEXModalPreview4.png": "/static/media/HEXModalPreview4.cadfec30d6ccc553e922.png",
     "static/media/HEXModalPreview3.png": "/static/media/HEXModalPreview3.6f472a958544d862bfdb.png",
+    "static/media/FFF_preview.png": "/static/media/FFF_preview.09bbc0a37a0475086364.png",
     "static/media/HEXModalPreview1.png": "/static/media/HEXModalPreview1.c0ad7a4f3a3e20e4fa1d.png",
     "static/media/ApruebameEstaModalPreview0.png": "/static/media/ApruebameEstaModalPreview0.356efc95eb9ca7248af5.png",
     "static/media/HexMatch_Preview.png": "/static/media/HexMatch_Preview.cbbe3fa39cacc1bfe129.png",
@@ -36,12 +36,13 @@
     "static/media/TheCatThatWatchedTheStarsPreview.png": "/static/media/TheCatThatWatchedTheStarsPreview.8c08b699d3996e26421e.png",
     "static/media/TCTWTSAVModalPreview0.jpg": "/static/media/TCTWTSAVModalPreview0.43b2655d222328858293.jpg",
     "static/media/FlowFreePreview.png": "/static/media/FlowFreePreview.b7a545ad74c7298da398.png",
+    "static/media/ApruebameEstaPreview.png": "/static/media/ApruebameEstaPreview.8d670beeeabc3603eceb.png",
     "index.html": "/index.html",
     "main.41972a86.css.map": "/static/css/main.41972a86.css.map",
-    "main.f0c26f63.js.map": "/static/js/main.f0c26f63.js.map"
+    "main.7db06852.js.map": "/static/js/main.7db06852.js.map"
   },
   "entrypoints": [
     "static/css/main.41972a86.css",
-    "static/js/main.f0c26f63.js"
+    "static/js/main.7db06852.js"
   ]
 }
