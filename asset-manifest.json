@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dfd2b2fb.css",
-    "main.js": "/static/js/main.ef85ab40.js",
+    "main.js": "/static/js/main.933e80fd.js",
     "static/media/LumenFallModalPreview1.png": "/static/media/LumenFallModalPreview1.10847bc56bd44bad8d26.png",
     "static/media/COCGWPreview.png": "/static/media/COCGWPreview.da33bd596443a16e707b.png",
     "static/media/Wolfestein3DPreview.png": "/static/media/Wolfestein3DPreview.9a725875f7506eb81bdf.png",
@@ -15,12 +15,14 @@
     "static/media/JefeLaCuentaPreview.png": "/static/media/JefeLaCuentaPreview.563c11a74078e7ed1531.png",
     "static/media/EngineTechnologies.png": "/static/media/EngineTechnologies.3f0e4e4e1b0bd8b232ea.png",
     "static/media/Hematorrossa_Preview.png": "/static/media/Hematorrossa_Preview.a5d9fa52fc56dc2914ef.png",
+    "static/media/DriftingSurvivorsModalPreview2.png": "/static/media/DriftingSurvivorsModalPreview2.ffe071438d7133e993a3.png",
     "static/media/HEXModalPreview2.png": "/static/media/HEXModalPreview2.ffe071438d7133e993a3.png",
     "static/media/WolfesteinModalPreview0.png": "/static/media/WolfesteinModalPreview0.654d1802a6829b11c2b7.png",
     "static/media/DGTModalPreview0.png": "/static/media/DGTModalPreview0.80652579c01b326d8646.png",
     "static/media/HEXModalPreview4.png": "/static/media/HEXModalPreview4.cadfec30d6ccc553e922.png",
     "static/media/HEXModalPreview3.png": "/static/media/HEXModalPreview3.6f472a958544d862bfdb.png",
     "static/media/FFF_preview.png": "/static/media/FFF_preview.09bbc0a37a0475086364.png",
+    "static/media/DriftingSurvivorsModalPreview1.png": "/static/media/DriftingSurvivorsModalPreview1.c0ad7a4f3a3e20e4fa1d.png",
     "static/media/HEXModalPreview1.png": "/static/media/HEXModalPreview1.c0ad7a4f3a3e20e4fa1d.png",
     "static/media/ApruebameEstaModalPreview0.png": "/static/media/ApruebameEstaModalPreview0.356efc95eb9ca7248af5.png",
     "static/media/HexMatch_Preview.png": "/static/media/HexMatch_Preview.cbbe3fa39cacc1bfe129.png",
@@ -28,6 +30,7 @@
     "static/media/OhnOPreview.png": "/static/media/OhnOPreview.45e3f47bad94bd01a848.png",
     "static/media/DGTPreview.png": "/static/media/DGTPreview.6b44e4c84b3681e5edbc.png",
     "static/media/TurnCoffeIntoCode.jpg": "/static/media/TurnCoffeIntoCode.206f1342b883675897b6.jpg",
+    "static/media/DriftingSurvivors_Preview.png": "/static/media/DriftingSurvivors_Preview.d948206c96348a76cb65.png",
     "static/media/AnimalCookingPreview.png": "/static/media/AnimalCookingPreview.679befcdf844571fc11f.png",
     "static/media/LumenFallPreview.png": "/static/media/LumenFallPreview.38a3471cfda02af3585b.png",
     "static/media/ApruebameEstaModalPreview2.png": "/static/media/ApruebameEstaModalPreview2.e3d19936455c4d2aaf02.png",
@@ -40,10 +43,10 @@
     "static/media/ApruebameEstaPreview.png": "/static/media/ApruebameEstaPreview.8d670beeeabc3603eceb.png",
     "index.html": "/index.html",
     "main.dfd2b2fb.css.map": "/static/css/main.dfd2b2fb.css.map",
-    "main.ef85ab40.js.map": "/static/js/main.ef85ab40.js.map"
+    "main.933e80fd.js.map": "/static/js/main.933e80fd.js.map"
   },
   "entrypoints": [
     "static/css/main.dfd2b2fb.css",
-    "static/js/main.ef85ab40.js"
+    "static/js/main.933e80fd.js"
   ]
 }
